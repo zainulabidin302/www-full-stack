@@ -1,5 +1,5 @@
 
-Demistifying the Web
+## 1. Demistifying the Web
 ---------------------------
 
 * Surfing the internet & Search Engines (5 min)
@@ -17,8 +17,22 @@ students can follow the same.
 45 Mins
 
 
+## 2. You need a pleasing design
+---------------------------
+Aesthetics and law of thirds. 
+Software tools - iteration, collabaration and reiteration . ( 5 mins)
+Adobe, Gimp, Illustraotr or What ? . (5 mins)
+A glimpse of what a design look like (accompnying material demo) ( 5 mins)
+Cross platform Layouts ( 6 mins)
+Is slicing still alive? (4 mins)
+Some basic Principles and Layouts. ( 5 mins)
+Themeforest, Envato ( 5 mins)
+Crafting and packaging themes (5 mins)
+HTML vs CMS themes (5 mins)
 
-Jumping to straight to the Editor 
+	
+
+## 2. Building a barebone Layout
 ---------------------------
 Getting started with HTML. 
 Editor Choices and plugings for Rapid development. ( 10 mins)
@@ -26,11 +40,9 @@ Editor Choices and plugings for Rapid development. ( 10 mins)
 	* Layouts (25 mins)
 	* HTML 5 and beyond (LocalStorage, FileAPI, WebVR, webSQL, ) an overview (5 mins)
 	
-	
-45 mins
 
 
-Adding color to body
+## 3. Adding colors with CSS
 ---------------------------
 Getting started with CSS. 
 Editor Choices and plugings for Rapid development. ( 10 mins)
@@ -42,7 +54,7 @@ Editor Choices and plugings for Rapid development. ( 10 mins)
 45 mins
 
 
-Adding color to life
+## 4. Adding life in your website
 ---------------------------
 Getting started with CSS. 
 Editor Choices and plugings for Rapid development. ( 10 mins)
