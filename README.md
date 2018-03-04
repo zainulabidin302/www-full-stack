@@ -2,7 +2,7 @@
 ## 1. Demistifying the Web
 ---------------------------
 
-* Surfing the internet & Search Engines (5 min)
+* [Search engines & WWW](https://github.com/zainulabidin302/www-full-stack/blob/master/1.1-Search-Engines-and-www.md) (5 min)
 * Unlocking the internet     (examples with accompnying material)
 	* A Networking perspective (5 min)
 	* An User application perspective (5 min)
