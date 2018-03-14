@@ -1,0 +1,15 @@
+.box {
+    width: 80%;
+    min-height: 300px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 5px;
+    margin-top: 10%;
+    border-radius: 30px;
+}
+
+.box h1 {
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
