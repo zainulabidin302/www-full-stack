@@ -50,9 +50,7 @@
   | object              | object             | <i> Banana </i>|
   | s              | underline, incorrect             | <s> Banana </s>|
   | del, strike              | overline             | <del> Banana </del>|
-  
   ...
-
   [Excercise](../coding-examples/html/example2.html)
   a, img, video, audio, object
   Excercise
